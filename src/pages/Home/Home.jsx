@@ -136,7 +136,7 @@ const Home = () => {
                 <div className={'page home'}>
                     <section className={'hero'}>
                         <div className={'hero-img'}>
-                            <Parallax src="/home/hero.jpg" alt="Hero Image" speed={.5}/>
+                            <Parallax src="/horizon/home/hero.jpg" alt="Hero Image" speed={.5}/>
                         </div>
                         <div className="hero-img-overlay"></div>
                         <div className="hero-img-gradient"></div>
